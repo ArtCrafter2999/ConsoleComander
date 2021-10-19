@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\Crypto\bin\Debug\netcoreapp3.1\Crypto.exe
+C:\Users\student\source\repos\Crypto\bin\Debug\netcoreapp3.1\Crypto.deps.json
+C:\Users\student\source\repos\Crypto\bin\Debug\netcoreapp3.1\Crypto.runtimeconfig.json
+C:\Users\student\source\repos\Crypto\bin\Debug\netcoreapp3.1\Crypto.runtimeconfig.dev.json
+C:\Users\student\source\repos\Crypto\bin\Debug\netcoreapp3.1\Crypto.dll
+C:\Users\student\source\repos\Crypto\bin\Debug\netcoreapp3.1\Crypto.pdb
+C:\Users\student\source\repos\Crypto\obj\Debug\netcoreapp3.1\Crypto.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Crypto\obj\Debug\netcoreapp3.1\Crypto.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Crypto\obj\Debug\netcoreapp3.1\Crypto.AssemblyInfo.cs
+C:\Users\student\source\repos\Crypto\obj\Debug\netcoreapp3.1\Crypto.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Crypto\obj\Debug\netcoreapp3.1\Crypto.dll
+C:\Users\student\source\repos\Crypto\obj\Debug\netcoreapp3.1\Crypto.pdb
+C:\Users\student\source\repos\Crypto\obj\Debug\netcoreapp3.1\Crypto.genruntimeconfig.cache
